@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on #cloud #infrastructure #devops #sre
 - 🌱 I’m currently learning #golang #python #dotnet #terraform #cdk
 - 🤔 I’m looking for help to fix the problem of too few hours per day
-- 💬 Ask me about everything...
+- 💬 Ask me about anything...
 - 📫 How to reach me: twitter / instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Scotland has 421 words for “snow”
