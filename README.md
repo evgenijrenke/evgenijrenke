@@ -7,7 +7,6 @@
 - 📫 How to reach me: twitter / instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Scotland has 421 words for “snow”
--->
 
 <!--
 **evgenijrenke/evgenijrenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
