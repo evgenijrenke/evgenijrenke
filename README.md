@@ -1,6 +1,6 @@
 ### use your passion to make an impact 
 
-- 🔭 I’m currently working on #Cloud #infrastructure #devops #sre
+- 🔭 I’m currently working on #cloud #infrastructure #devops #sre
 - 🌱 I’m currently learning #golang #python #dotnet #terraform #cdk
 - 🤔 I’m looking for help to fix the problem of too few hours per day
 - 💬 Ask me about everything...
